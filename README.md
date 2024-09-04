@@ -1,3 +1,4 @@
+![logo](https://github.com/Siddique-Ahmed/Siddique-Ahmed/blob/master/github-banner.png)
 <h1 align="center">Hi 👋, I'm Siddique Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
