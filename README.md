@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React js , Express js , Next Js , React Native**
 
-- 👨‍💻 All of my projects are available at [https://portfoliosiddique.netlify.app/](https://portfoliosiddique.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://siddique-portfolio.vercel.app/](https://portfoliosiddique.netlify.app/)
 
 - 💬 Ask me about **React**
 
