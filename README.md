@@ -6,6 +6,8 @@
 
 <p align="left" style="margin-top: 20px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddique-ahmed" alt="siddique-ahmed" /></a> </p>
 
+<img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/2eedf25c65a9269ed2097998da5fded175a37ee0997c3d2c83dfde65eb6d88a4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966">
+
 - 🔭 I’m currently working on [LMS](l-m-s--xi.vercel.app)
 
 - 🌱 I’m currently learning **React Native,Node Js,Express Js,GraphSQL,PostgreSQL**
@@ -17,8 +19,6 @@
 - 📫 How to reach me **itssiddique786@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
-<img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/2eedf25c65a9269ed2097998da5fded175a37ee0997c3d2c83dfde65eb6d88a4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966">
 
 <p align="left">
 <a href="https://linkedin.com/in/siddique-ahmed-8a3009297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddique-ahmed-8a3009297/" height="30" width="40" /></a>
