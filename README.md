@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Siddique Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" style="margin-top: 30px; margin-bottom: 30px;" alt="coding" width="400px" src="https://camo.githubusercontent.com/2eedf25c65a9269ed2097998da5fded175a37ee0997c3d2c83dfde65eb6d88a4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966">
+<img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/2eedf25c65a9269ed2097998da5fded175a37ee0997c3d2c83dfde65eb6d88a4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966">
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddique-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="siddique-ahmed" /> </p>
+<p align="left" style="margin-top: 20px;"> <img src="https://komarev.com/ghpvc/?username=siddique-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="siddique-ahmed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddique-ahmed" alt="siddique-ahmed" /></a> </p>
+<p align="left" style="margin-top: 20px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddique-ahmed" alt="siddique-ahmed" /></a> </p>
 
 - 🔭 I’m currently working on [LMS](l-m-s--xi.vercel.app)
 
