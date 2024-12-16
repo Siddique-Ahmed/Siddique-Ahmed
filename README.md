@@ -1,4 +1,4 @@
-![logo]([https://github.com/Siddique-Ahmed/Siddique-Ahmed/blob/master/github-banner.png](https://raw.githubusercontent.com/Siddique-Ahmed/Siddique-Ahmed/refs/heads/master/Banner.png))
+![logo]([https://github.com/Siddique-Ahmed/Siddique-Ahmed/blob/master/github-banner.png](https://raw.githubusercontent.com/Siddique-Ahmed/Siddique-Ahmed/refs/heads/master/Banner.png)])
 <h1 align="center">Hi 👋, I'm SIDDIQUE AHMED</h1>
 <h3 align="center">Aspiring Mern Stack Developer from Pakistan</h3>
 
